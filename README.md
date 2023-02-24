@@ -1,4 +1,4 @@
-# Hosting-and-Accessing-a-Linux-VM-on-DIgital-Ocean
+# Hosting-and-Accessing-a-Linux-VM-on-Digital-Ocean
 A rundown on creating a Linux Virtual Machine using Digital Ocean’s Cloud services.
 
 # Registering and Configuring a VM Instance
